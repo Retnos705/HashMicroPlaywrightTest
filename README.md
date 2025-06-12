@@ -23,8 +23,8 @@ HASHMICROPLAYWRIGHTTEST/
 
 ### 1. Clone Repo
 ```bash
-git clone https://github.com/your-username/hashmicro-playwright-test.git
-cd hashmicro-playwright-test
+git clone https://github.com/Retnos705/HashMicroPlaywrightTest.git
+cd HashMicroPlaywrightTest
 ```
 
 ### 2. Install Dependencies
